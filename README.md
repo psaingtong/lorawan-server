@@ -56,6 +56,7 @@ The server:
    * Supports multicast to user-defined groups.
    * Supports all regions standartized in LoRaWAN 1.0.3 Regional Parameters for
      Europe, US, China, Australia, Asia, South Korea, India and Russia.
+   * Custom in Thailand.  
  * Provides a network management interface.
    * Supports both manual and automatic configuration of data rate (ADR) and other parameters.
    * Monitors the server, gateways and node health status and displays device
@@ -191,6 +192,7 @@ and institutions. It was mentioned by the following blogs and articles:
  * [Сергей Гаевский: Построение корпоративной сети LoRaWAN](http://controlengrussia.com/besprovodny-e-tehnologii/korporativnoj-seti-lorawan), in Беспроводные технологии №3’17
 
 Please let me know if you use the lorawan-server and want to be listed here.
+
 
 
 ## Copyright and Licensing
